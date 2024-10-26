@@ -1,20 +1,7 @@
-# Template website undangan pernikahan sederhana
-
-![Thumbnail](/assets/images/banner.png)
-![Thumbnail2](/assets/images/banner2.png)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cef32dbf-f26f-4865-84a9-b85a439c9994/deploy-status)](https://app.netlify.com/sites/ulems/deploys)
-[![Hits](https://ikit.my.id/0b3y8q)](https://badge.ikit.my.id)
-[![GitHub repo size](https://img.shields.io/github/repo-size/dewanakl/undangan?color=brightgreen)](https://shields.io)
-[![GitHub License](https://img.shields.io/github/license/dewanakl/undangan?color=brightgreen)](https://shields.io)
 
 ## Demo
 
-<https://ulems.my.id?to=Teman+teman+semua>
-
-## Deployment API
-
-- Presentation
-    [https://docs.google.com/presentation/d/1EY2YmWdZUI7ASoo0f2wvU7ec_Yt0uZanYa8YLbfNysk/edit](https://docs.google.com/presentation/d/1EY2YmWdZUI7ASoo0f2wvU7ec_Yt0uZanYa8YLbfNysk/edit)
+<https://bharathk113.github.io/our-invite>
 
 ## Tech stack
 
@@ -28,12 +15,12 @@
 
 ## Contributing
 
-I'm very open to those of you who want to contribute to the undangan!
+I'm very open to everyone for contributing and using this page!
 
 ## Security Vulnerabilities
 
-If you find any security vulnerabilities in this undangan, please email DKL via [dewanakretarta29@gmail.com](mailto:dewanakretarta29@gmail.com).
+If you find any security vulnerabilities in this undangan, please comment here.
 
 ## License
 
-Undangan is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+This page is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
